@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  geronimooo@foxmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megrax)](https://github.com/Megrax/github-readme-stats)
+
 <a href="https://github.com/Megrax/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Megrax&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Megrax/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Megrax&repo=convoychat" />
 </a>
