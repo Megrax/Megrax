@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎒 I’m currently studying in HDU.<a href="https://github.com/Megrax/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megrax" />
-</a>
+- 🎒 I’m currently studying in HDU.               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megrax" />
 - 🌱 I’m currently learning Javascript and Node.js. 
 - 📫 How to reach me:  geronimooo@foxmail.com
