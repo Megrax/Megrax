@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript and Node.js. 
 - 📫 How to reach me:  geronimooo@foxmail.com
 
- 🌕 🌖 🌗 🌘 🌑 🌒 🌓 🌔
-
 <a href="https://github.com/Megrax/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megrax" />
 </a>
