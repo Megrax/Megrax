@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎒 I’m currently studying in HDU.
+- 🌱 I’m currently learning Javascript and Node.js. 
+- 📫 How to reach me: geronimooo@foxmail.com
