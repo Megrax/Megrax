@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🎒 I’m currently studying in HDU.
 - 🌱 I’m currently learning Javascript and Node.js. 
-- 📫 How to reach me: geronimooo@foxmail.com
+- 📫 How to reach me:  geronimooo@foxmail.com
