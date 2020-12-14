@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/Megrax/Megrax/blob/main/bettercallmorty.PNG" />
+
 ### Hi there 👋
 
 <!--
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github.com/Megrax/Megrax/blob/main/bettercallmorty.PNG" />
+
 - 🎒 I’m currently studying in HDU. 
 - 🌱 I’m currently learning Javascript and Node.js. 
 - 📫 How to reach me:  geronimooo@foxmail.com
