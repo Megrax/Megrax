@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span>
+<div style="display:inline-block;">
 - 🎒 I’m currently studying in HDU. 
 - 🌱 I’m currently learning Javascript and Node.js. 
 - 🐟 I know nothing about Front-End development.
 - 🥦 My favorite food is broccoli.
 - 📌 My blog site: [Megrax's Blog](https://blog.megrax.space) .
 - 📫 How to reach me:  geronimooo@foxmail.com .
-</span>
+</div>
 
 <a href="https://github.com/Megrax/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megrax" />
