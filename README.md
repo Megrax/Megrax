@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Megrax/Megrax/blob/main/bettercallmorty.PNG" />
 
-### Hi there 👋 I'm <strong><del>Morty</del></strong> Megrax !
+### Hi there 👋 I'm <strong><del>Mor</del></strong> Megrax !
 
 <!--
 **Megrax/Megrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
