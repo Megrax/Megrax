@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎒 I’m currently studying in HDU. 
-- 🌱 I’m currently learning Javascript and Node.js. 
+- 🌱 I’m currently learning Javascript, Typescript, Node.js, Vue.js, Svelte.js and Flutter. 
 - 🐟 I know nothing about Front-End development.
 - 🥦 My favorite food is broccoli.
 - 📌 My blog site: [Megrax's Blog](https://blog.megrax.space) .
