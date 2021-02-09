@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Typescript, Svelte.js, Swift and Flutter. 
 - 🐟 I know nothing about Front-End development.
 - 🥦 My favorite food: broccoli.
-- 📌 My blog site: [Megrax's Blog](https://blog.megrax.space) .
+- 📌 My blog site: [{{secret}}](https://github.com/Megrax/#) .
 - 📫 How to reach me:  geronimooo@foxmail.com .
 
 <a href="https://github.com/Megrax/github-readme-stats">
