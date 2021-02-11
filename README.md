@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎒 I’m currently studying in HDU. 
-- 🌱 I’m currently learning Typescript, Svelte.js, Swift and Flutter. 
+- 🌱 I’m currently focused on Javascript. 
 - 🐟 I know nothing about Front-End development.
 - 🥦 My favorite food: broccoli.
 - 📌 My blog site: [{{secret}}](#) .
