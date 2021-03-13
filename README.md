@@ -17,15 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎒 I’m currently studying in HDU. 
-- 🌱 I’m currently focused on Javascript. 
+- 🎒 I’m a sophomore in HDU. 
+- 🔬 I’m currently focused on Javascript. 
 - 🐟 I know nothing about Front-End development.
-- 🥦 My favorite food: broccoli.
-- 📌 My blog site: [{{secret}}](#) .
 - 📫 How to reach me:  geronimooo@foxmail.com .
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![Megrax's Github stats](https://github-readme-stats.vercel.app/api?username=Megrax&show_icons=true)
-
