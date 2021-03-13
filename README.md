@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  geronimooo@foxmail.com .
 
 <!--START_SECTION:waka-->
-test
 <!--END_SECTION:waka-->
 
+![Megrax's Github stats](https://github-readme-stats.vercel.app/api?username=Megrax&show_icons=true)
 
