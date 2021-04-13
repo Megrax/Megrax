@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/Megrax/Megrax/blob/main/bettercallmorty.PNG" />
+<p align="center">
+<img width="750" src="https://github.com/Megrax/Megrax/blob/main/bettercallmorty.PNG" />
+</p>
 
 ### Hi there 👋 I'm <strong><del>Mor</del></strong> Megrax !
 
