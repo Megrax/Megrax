@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&hide_title=true&theme=great-gatsby" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&hide_title=true&theme=buefy" align="right"/>
 
 - 🎒 I’m a sophomore in HDU. 
 - 🔬 I’m currently focused on <img src="https://badges.aleen42.com/src/typescript.svg">. 
