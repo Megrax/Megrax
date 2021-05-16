@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true" align="right"/>
 
 - 🎒 I’m a sophomore in HDU. 
-- 🔬 I’m currently focused on JavaScript and TypeScript. 
+- 🔬 I’m currently focused on <img src="https://badges.aleen42.com/src/typescript.svg">. 
 - 🐟 I know nothing about Front-End development.
 - 📫 How to reach me:  geronimooo@foxmail.com .
