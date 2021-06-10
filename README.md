@@ -1,5 +1,5 @@
 <p align="center">
-<img width="750" src="https://github.com/Megrax/Megrax/blob/main/bettercallmorty.PNG" />
+<img width="550" src="https://github.com/Megrax/Megrax/blob/main/6M8G.gif" />
 </p>
 
 ### Hi there 👋 I'm <strong><del>Mor</del></strong> Megrax !
