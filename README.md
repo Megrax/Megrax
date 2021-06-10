@@ -1,5 +1,5 @@
 <p align="center">
-<img width="550" src="https://github.com/Megrax/Megrax/blob/main/6M8G.gif" />
+<img width="450" src="https://github.com/Megrax/Megrax/blob/main/6M8G.gif" />
 </p>
 
 ### Hi there 👋 I'm Megrax !
