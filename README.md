@@ -2,7 +2,7 @@
 <img width="550" src="https://github.com/Megrax/Megrax/blob/main/6M8G.gif" />
 </p>
 
-### Hi there 👋 I'm <strong><del>Mor</del></strong> Megrax !
+### Hi there 👋 I'm Megrax !
 
 <!--
 **Megrax/Megrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
