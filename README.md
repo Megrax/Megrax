@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&hide_title=true&theme=buefy" align="right"/>
 
-- 🎒 I’m a sophomore in HDU. 
+- 🎒 About to be a junior at HDU. 
 - 🔬 I’m currently focused on <img src="https://badges.aleen42.com/src/typescript.svg">. 
 - 🐟 I know nothing about Front-End development.
 - 📫 How to reach me:  geronimooo@foxmail.com .
