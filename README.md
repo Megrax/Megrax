@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 - 🎒 About to be a junior at HDU. 
 - 🔬 I’m currently focused on <img src="https://badges.aleen42.com/src/typescript.svg">. 
 - 🐟 I know nothing about Front-End development.
-- 📫 How to reach me:  geronimooo@foxmail.com .
+- 📫 How to reach me:  geronimooo@foxmail.com.
+- 🎵 Fun fact: I use Apple Music for Android.
