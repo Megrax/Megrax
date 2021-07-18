@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 - 🎒 About to be a junior at HDU. 
 - 🔬 I’m currently focused on [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)](https://). 
-- 🐟 I know nothing about Front-End development.
+- 😋 I enjoy working on Front-End development.
 - 🎵 Fun fact: I use Apple Music for Android.
 - 📫 How to reach me:  geronimooo@foxmail.com.
