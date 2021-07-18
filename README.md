@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&hide_title=true&theme=buefy" align="right"/>
 
 - 🎒 About to be a junior at HDU. 
-- 🔬 I’m currently focused on <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">. 
+- 🔬 I’m currently focused on [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)](https://). 
 - 🐟 I know nothing about Front-End development.
 - 🎵 Fun fact: I use Apple Music for Android.
 - 📫 How to reach me:  geronimooo@foxmail.com.
