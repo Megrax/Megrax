@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 - 🔬 I’m currently focused on [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)](https://). 
 - 😋 I enjoy working on Front-End development.
 - 🎵 Fun fact: I use Apple Music for Android.
+- 📝 My blog site: https://blog.megrax.space.
 - 📫 How to reach me:  geronimooo@foxmail.com.
