@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 <img width="450" src="https://github.com/Megrax/Megrax/blob/main/6M8G.gif" />
-</p>
+</p> -->
 
 ### Hi there 👋 I'm Megrax !
 
