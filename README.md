@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&theme=buefy&count_private=true&hide=stars&custom_title=Megrax's GitHub Stats" align="right"/>
 
 - 🎒 I'm a junior at HDU. 
-- 🔬 I’m currently focused on [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)](https://). 
+- 🔬 I’m currently focused on [![React](https://img.shields.io/badge/React-000000?logo=react)](https://). 
 - 😋 I enjoy working on Front-End development.
 - 🎵 Fun fact: I use Apple Music for Android.
 - 📫 How to reach me:  geronimooo@foxmail.com.
