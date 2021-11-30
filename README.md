@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&theme=buefy&count_private=true&hide=stars&custom_title=Megrax's GitHub Stats" align="right" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&theme=buefy&count_private=true&hide=stars&custom_title=Megrax's GitHub Stats" align="right" width="420"/>
 
 - 👨🏻‍💻 I'm a junior from HDU, presently intern @Bytedance.
 - 🔬 I’m currently focused on [![React](https://img.shields.io/badge/React-000000?logo=react)](https://). 
