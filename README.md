@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&theme=buefy&count_private=true" align="right" width="420"/>
 
-- 👨🏻‍💻 Junior undergraduate from HDU, engineering intern @Bytebase.
-- 📕 Currently learning [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)](https://).
+- 👨🏻‍💻 Senior undergraduate from HDU, engineering intern @Bytebase.
+- 📕 Currently learning [![Go](https://img.shields.io/badge/Go-000000?logo=go)](https://).
 - 😋 I enjoy working on Front-End development.
 - 🎵 Fun fact: I use Apple Music for Android.
 - 📫 How to reach me:  geronimooo@foxmail.com.
