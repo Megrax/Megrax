@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=megrax&show_icons=true&theme=buefy&count_private=true" align="right" width="420"/>
 
-- 👨🏻‍💻 Senior undergraduate from HDU, engineering intern @Bytebase.
+- 👨🏻‍💻 Senior undergraduate from HDU, previously intern @ByteDance and @Bytebase.
 - 📕 Currently learning [![Go](https://img.shields.io/badge/Go-000000?logo=go)](https://).
 - 😋 I enjoy working on Front-End development.
 - 🎵 Fun fact: I use Apple Music for Android.
